@@ -1,7 +1,7 @@
-## Vinicius Barbosa :technologist:
+## Hi! I'm Vinicius Barbosa 🔥
 
-- Software Developer at FIT 💻
-- Computer Engineering student at Facens :gear:
+- 💻 Software Developer at FIT
+- ⚙️ Computer Engineering student at Facens
 
 ## 🖥️ Github Stats
 ![Vinicius Barbosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=vininew921&show_icons=true&theme=tokyonight&count_private=true)
