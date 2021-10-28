@@ -1,6 +1,6 @@
 ## Hi! I'm Vinicius Barbosa 🔥
 
-- 💻 Software Developer at FIT
+- 💻 Backend Developer at FIT
 - ⚙️ Computer Engineering student at Facens
 
 ## 🖥️ Github Stats
