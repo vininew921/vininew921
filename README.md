@@ -1,7 +1,7 @@
 
 ## Hi
 
-- 💻 Fullstack Developer at FIT
+- 💻 Fullstack Developer
 - ⚙️ Computer Engineer
 
 ## Interesting stuff I made
